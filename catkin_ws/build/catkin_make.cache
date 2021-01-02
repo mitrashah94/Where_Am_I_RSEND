@@ -1,2 +1,0 @@
-my_robot:pgm_map_creator
--DCATKIN_DEVEL_PREFIX=/home/mitra/Where_Am_I_RSEND/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mitra/Where_Am_I_RSEND/catkin_ws/install -G Unix Makefiles
